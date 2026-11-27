@@ -46,13 +46,7 @@
 │       ├── flow.py         左侧可点击链路框图
 │       ├── params.py       参数控件
 │       └── results.py      图表框、数据表、指标卡
-├── platform_results/       ← 结果默认保存位置
-└── （原有仿真文件保持不动）
-    ├── baseband_codes_simulation.py
-    ├── channel_coding_comparison.py
-    ├── pcm_simulation.py
-    ├── qpsk_awgn_demo.py
-    └── early_late_gate_sim.py
+└── platform_results/       ← 结果默认保存位置
 ```
 
 ## 三、运行环境与启动
